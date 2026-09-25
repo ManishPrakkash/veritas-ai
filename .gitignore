@@ -3,3 +3,8 @@
 
 # Local Netlify folder
 .netlify
+
+# Downloaded/generated test images and model prototype artifacts
+/model/samples/
+.claude
+.kilo
